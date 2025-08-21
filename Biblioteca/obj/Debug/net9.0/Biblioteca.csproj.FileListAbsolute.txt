@@ -1,0 +1,14 @@
+C:\UNIP\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.exe
+C:\UNIP\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.deps.json
+C:\UNIP\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.runtimeconfig.json
+C:\UNIP\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.dll
+C:\UNIP\Biblioteca\Biblioteca\bin\Debug\net9.0\Biblioteca.pdb
+C:\UNIP\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIP\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.AssemblyInfoInputs.cache
+C:\UNIP\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.AssemblyInfo.cs
+C:\UNIP\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\UNIP\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.dll
+C:\UNIP\Biblioteca\Biblioteca\obj\Debug\net9.0\refint\Biblioteca.dll
+C:\UNIP\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.pdb
+C:\UNIP\Biblioteca\Biblioteca\obj\Debug\net9.0\Biblioteca.genruntimeconfig.cache
+C:\UNIP\Biblioteca\Biblioteca\obj\Debug\net9.0\ref\Biblioteca.dll
