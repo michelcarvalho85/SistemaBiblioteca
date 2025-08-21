@@ -7,5 +7,5 @@ public class Livro
     public string Nome { get; set; } = string.Empty; // string.Empty inicia com texto vazio
     public string Autor { get; set; } = string.Empty;
     public string Categoria { get; set; } = string.Empty;
-    public bool Ativo { get; set; } = true; // por defult verdadeiro
+    public bool Ativo { get; set; } = true; // Padrão verdadeiro
 }
